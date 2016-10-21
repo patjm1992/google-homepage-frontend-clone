@@ -1,0 +1,38 @@
+html {
+	font-family: arial, sans-serif;
+	font-size: small;
+}
+
+nav {
+	background-color: #fff;
+	color: #888;
+	text-align: center;
+	float: right;
+	overflow: hidden;
+	margin: -5px 15px 0px 20px;
+	padding: 0px;
+}
+
+nav ul li {
+	display: inline-block;
+}
+
+nav ul li a {
+	margin: 0px 10px 0px 10px;
+	color: #888;
+	text-decoration: none;
+}
+
+
+nav ul li a img {
+    vertical-align: middle;
+    height: 20px;
+    width: 20px;
+}
+
+.logo {
+	position: fixed;
+	top: 28%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
