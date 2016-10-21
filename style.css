@@ -98,11 +98,7 @@ button:hover {
 form {
 	position: absolute;
     margin: 26% 27.75%;
-    font-size: 13px;
-}
-
-form:hover {
-	border: 1px solid #e6e6e6;
+    font-size: 18px;
 }
 
 input {
@@ -132,6 +128,9 @@ footer ul li a {
 	text-align: float;
 	color: #888;
 	padding: 0px 15px;
+	display: inline-block;  
+	list-style-type: none;	
+	line-height: 16px;
 }
 
 footer ul li a:hover {
