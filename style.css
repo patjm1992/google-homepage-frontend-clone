@@ -46,26 +46,29 @@ footer {
     bottom: 0;
 	left: 0;
     border-top: 1px solid #e6e6e6;
-
+    padding-right: 25px;
 }
 
 footer ul li {
 	display: inline-block;  
 	list-style-type: none;	
-	left: -30px;
-
+	line-height: 16px;
 }
 
 footer ul li a {
 	text-decoration: none;
+	text-align: float;
 	color: #888;
-	padding: 0px 12px;
+	padding: 0px 15px;
 }
 
 .leftfooter {
 	float: left;
+	text-align: float;
 	color: #888;
-
+	padding-right: 10px;
+	padding-left: -10px;
+	margin-left: -40px;
 }
 
 .rightfooter {
