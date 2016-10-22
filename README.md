@@ -2,8 +2,8 @@
 
 Exercise in HTML/CSS. 
 
-# Result:
-
+Result:
+-------
  
 ![](https://github.com/patjm1992/google-homepage-frontend-clone/raw/master/screenie "Screenshot")
 
