@@ -4,7 +4,6 @@ Exercise in HTML/CSS.
 
 # Result:
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/screenie "Screenshot")
+ 
+![](https://github.com/patjm1992/google-homepage-frontend-clone/raw/master/screenie "Screenshot")
 
-Reference-style: 
